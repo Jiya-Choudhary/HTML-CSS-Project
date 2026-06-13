@@ -1,60 +1,94 @@
-🎵 Spotify Web Player Clone
+# 🎵 Spotify Web Player Clone
 
-A responsive Spotify-inspired Web Player Clone built using HTML5 and CSS3. This project recreates Spotify's modern user interface, featuring a sidebar navigation menu, music library, playlists, album cards, and a music player section.
+A responsive **Spotify-inspired Web Player Clone** built using **HTML5** and **CSS3**. This project recreates Spotify's modern user interface, featuring a sidebar navigation menu, music library, playlists, album cards, and a music player section.
 
-🌐 Live Demo:
-https://jiya-spotify-clone.netlify.app/
+🌐 **Live Demo:**  
+👉 https://jiya-spotify-clone.netlify.app/
 
-✨ Features
-🎨 Spotify-inspired modern UI
-📱 Responsive design
-🎵 Music player interface
-📚 Library and playlist section
-🖼️ Custom album artwork and assets
-🔍 Navigation sidebar
-⚡ Pure HTML & CSS implementation
-🛠️ Tech Stack
-HTML5
-CSS3
-Font Awesome
-Google Fonts (Montserrat)
-📂 Project Structure
+---
+
+## ✨ Features
+
+- 🎨 Spotify-inspired modern UI
+- 📱 Responsive design
+- 🎵 Music player interface
+- 📚 Library and playlist section
+- 🖼️ Custom album artwork and assets
+- 🔍 Navigation sidebar
+- ⚡ Built using pure HTML & CSS
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Font Awesome
+- Google Fonts (Montserrat)
+
+---
+
+## 📂 Project Structure
+
+```text
 Spotify-Web-Player-Clone/
 │
 ├── index.html
 ├── style.css
 ├── assets/
-│   ├── images
-│   ├── icons
-│   └── logos
 └── README.md
-🚀 Getting Started
-Clone the Repository
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
 git clone https://github.com/Jiya-Choudhary/Spotify-Web-Player-Clone.git
-Run Locally
-Open the project folder.
-Double-click index.html or open it in your browser.
-🌐 Live Preview
+```
 
-Visit the deployed project:
+### Run Locally
 
-🔗 https://jiya-spotify-clone.netlify.app/
+1. Download or clone the repository.
+2. Open the project folder.
+3. Launch `index.html` in your browser.
 
-🎯 Key Learning Outcomes
-Semantic HTML Structure
-CSS Flexbox Layout
-Responsive Web Design
-UI/UX Development
-Component-Based Styling
-Working with External Libraries
-Front-End Project Deployment using Netlify
-📈 Future Enhancements
-JavaScript Integration
-Music Playback Functionality
-Search Feature
-User Authentication
-Dynamic Playlist Management
-Backend Integration
-👩‍💻 Author
+---
 
-Jiya Choudhary
+## 🌟 Project Highlights
+
+- Clean and modern Spotify-inspired interface
+- Responsive layout using Flexbox
+- Interactive music player design
+- Organized component-based styling
+- Real-world front-end UI recreation
+
+---
+
+## 🎯 Learning Outcomes
+
+- Semantic HTML Structure
+- CSS Flexbox Layout
+- Responsive Web Design
+- UI/UX Design Principles
+- External Library Integration
+- Front-End Deployment with Netlify
+
+---
+
+## 🔮 Future Enhancements
+
+- Add JavaScript functionality
+- Dynamic music playback controls
+- Search feature implementation
+- Playlist management
+- User authentication system
+- Backend integration
+
+---
+
+## 👩‍💻 Author
+
+**Jiya Choudhary**
